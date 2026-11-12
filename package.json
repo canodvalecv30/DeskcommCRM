@@ -44,7 +44,7 @@
     "@emoji-mart/react": "^1.1.1",
     "@hello-pangea/dnd": "^18.0.1",
     "@hookform/resolvers": "^5.9.1",
-    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@phosphor-icons/react": "^2.1.10",
     "@radix-ui/react-alert-dialog": "^1.1.23",
     "@radix-ui/react-avatar": "^1.2.6",
@@ -76,7 +76,7 @@
     "gpt-tokenizer": "^4.0.0",
     "import-in-the-middle": "^3.5.0",
     "lucide-react": "^1.43.0",
-    "next": "^16.3.4",
+    "next": "^16.4.1",
     "next-themes": "^0.4.6",
     "pdfjs-dist": "^6.3.289",
     "pg": "^8.23.0",
@@ -91,7 +91,7 @@
     "sonner": "^2.0.8",
     "tailwind-merge": "^3.6.0",
     "web-push": "^3.6.7",
-    "zod": "^4.6.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",
@@ -119,7 +119,7 @@
     "tsx": "^4.23.13",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.70.0",
-    "vite": "^8.2.2",
+    "vite": "^8.2.4",
     "vitest": "^4.1.11"
   },
   "packageManager": "pnpm@9.15.9",
